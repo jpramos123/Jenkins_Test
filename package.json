@@ -1,0 +1,22 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "Jenkins Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpramos123/Jenkins_Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpramos123/Jenkins_Test/issues"
+  },
+  "homepage": "https://github.com/jpramos123/Jenkins_Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
